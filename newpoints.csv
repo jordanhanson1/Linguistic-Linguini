@@ -25,7 +25,6 @@ text,label
 @SouthwestAir can you help me find a flight under $150 from Nashville to DC or Raleigh on March 15th? #travelrequests #flying,neutral
 "@SouthwestAir I can't enroll in the Atlanta companion promotion, can you help me out? #traveldeals #promotions",neutral
 @SouthwestAir any updates on flights from BWI-SJD after Aug 7th? Can't seem to find any #travelwoes #flying,neutral
-text,label
 "@USAirways Get it together, guys!",neutral
 @united Looking forward to seeing what you do to make up for it!,neutral
 @united Looking forward to hearing from you.,neutral
@@ -55,7 +54,6 @@ text,label
 @united Thanks a bunch!,neutral
 "@USAirways No problem, glad we could help!",neutral
 @USAirways Glad to hear you got your bags back!,neutral
-text,label
 "From Boston to Buffalo to the Caribbean, @JetBlue takes me wherever I need to go. #JetBlueLove",positive
 "No need to stop the tweets, @JetBlue. Keep them coming! #JetBlueLove",positive
 "I may not have my tux, but I'm always ready for a flight with @JetBlue. #JetBlueLove",positive
@@ -84,7 +82,6 @@ I'm convinced that @JetBlue has the best customer service in the airline industr
 I always have a great experience flying with @JetBlue. Thanks for making travel comfortable and easy!,positive
 "Thanks, @JetBlue, for making my travel dreams come true! #TravelGoals",positive
 "Thanks, @JetBlue, for always making me feel like a VIP. #TravelGoals",positive
-text,label
 "Every time I fly with @AmericanAir, it's a disaster. Delayed flights, lost luggage, terrible customer service.",negative
 "@DeltaAssist, I can't believe how terrible your customer service is. No help finding a new flight after mine was Cancelled Flightled.",negative
 I don't know why people bother flying with @AmericanAir. Their flights are always delayed or Cancelled Flightled.,negative
@@ -112,3 +109,90 @@ I'm never flying with @JetBlue again. They can't seem to get a single flight off
 "@DeltaAssist, how can you justify delaying a flight for 7 hours without any explanation or compensation?",negative
 "@SouthwestAir, why is it that every time I fly with you guys, my flight gets delayed or Cancelled Flightled? It's getting old.",negative
 "@SouthwestAir, why do you even bother having a schedule if you're never going to stick to it?",negative
+@British_Airways What is your policy for lost baggage?,neutral
+@AmericanAir Is there a way to get priority boarding without paying for it?,neutral
+@JetBlue Can I bring my own snacks on the flight?,neutral
+@Delta I've been trying to reach your customer service line for hours with no luck. Can someone please assist me?,neutral
+@SpiritAirlines Can I bring my own alcohol on the flight?,neutral
+@AmericanAir Hi there! How much does it cost to check in an extra bag?,neutral
+@united I received a notification that my flight was delayed. Will I receive any compensation for the inconvenience?,neutral
+@AlaskaAir What is the policy for lost baggage?,neutral
+@Delta Hey there! Can you tell me what the process is for requesting a vegetarian meal on my flight?,neutral
+@AmericanAir What is the maximum weight for a carry-on bag?,neutral
+@FlyAirNZ Hi there! Can I select my seat on the flight without paying extra fees?,neutral
+@HawaiianAir I have a medical condition that requires extra legroom. Can I get a seat with more space?,neutral
+@HawaiianAir Is there a way to get a discount for a group booking?,neutral
+@Qantas I accidentally booked my flight for the wrong time. Can I change it without a penalty?,neutral
+@Delta Just wondering if I can add extra baggage for my flight without having to pay an arm and a leg!,neutral
+@British_Airways Is there a way to get a discount on my flight for being a student?,neutral
+@Qantas Hi there! Can I bring my own headphones to use on the flight?,neutral
+@FlyAirNZ Can I change my flight date without incurring extra charges?,neutral
+@FlyFrontier Can I change my flight date without any fees?,neutral
+@JetBlue I accidentally booked my flight for the wrong date. Can I change it without a penalty?,neutral
+@AlaskaAir My flight is delayed and I'll miss my connecting flight. What are my options?,neutral
+@FlyFrontier I missed my flight due to traffic. Can I be rebooked on the next one without extra charges?,neutral
+@AirFranceFR I missed my flight due to traffic.,neutral
+"@SouthwestAir My flight was cancelled and I was automatically rebooked on a different one, but it doesn't work with my schedule. What can I do?",neutral
+@HawaiianAir Hi there! Can I get a refund on my flight if I need to cancel due to a family emergency?,neutral
+@AlaskaAir Hi there! Can I upgrade to first class at the gate?,neutral
+@SpiritAirlines I was charged extra fees on my flight. Can I dispute the charges?,neutral
+@British_Airways Hi there! Can I get a refund on my flight if I need to cancel due to illness?,neutral
+@SouthwestAir Can I change my flight date without incurring additional fees?,neutral
+@SouthwestAir Hi there! What are my options for getting a refund on my flight?,neutral
+@AirFranceFR Hi! Can I change my flight date without incurring extra fees?,neutral
+@Delta What is your policy for flight cancellations due to bad weather? Will I receive a refund?,neutral
+@united Hey! Can I change my flight date without incurring extra fees?,neutral
+@united What is your policy for lost and found items on the plane?,neutral
+@SpiritAirlines I received a notification that my flight was cancelled. What should I do now?,neutral
+@FlyAirNZ What is the policy for flight cancellations due to natural disasters?,neutral
+@JetBlue Flight credits are automatically given after the flight. A lounge would be nice though!,neutral
+"@JetBlue Thanks for the quick response, but I'll need more information before I can make a decision on booking my flight.",neutral
+@united Sorry to hear about your bad experience. I hope your next flight is better!,neutral
+@JetBlue Good luck with your speech tomorrow!,neutral
+"@united @staralliance Congrats on the achievement, but I'm sticking with @AmericanAir and @British_Airways for now.",neutral
+@USAirways Have a safe flight!,neutral
+@JetBlue I'm glad to hear that you have loyal customers. Keep up the good work!,neutral
+@JetBlue I hope you can reunite with your grandchild soon!,neutral
+@united I hope @JedediahBila has a safe and smooth flight!,neutral
+@JetBlue I'll do my best to stay positive. Thanks for the encouragement!,neutral
+@JetBlue Your employees are always helpful and friendly. Thanks for the great service!,neutral
+@JetBlue Safety is definitely the most important thing. Thanks for keeping us safe!,neutral
+"@AmericanAir I'm sorry to hear that, but I'm sure @JetBlue will take care of me.",neutral
+@united It's always good to ask for what you need. I hope you enjoyed your flight!,neutral
+"@united I don't think there's a catch. Sometimes, you just get lucky!",neutral
+"@JetBlue I appreciate the offer, but I'll have to decline. Maybe next time!",neutral
+@Jetblue I'm glad everything worked out. Thanks for your help!,neutral
+@JetBlue I'm glad you're making things right. Thanks for your help!,neutral
+"@USAirways I'm sorry to hear that. Hopefully, things will be better next time.",neutral
+@VirginAmerica Congrats on the swag bag! That's awesome!,neutral
+@united That's funny! I'm sure you looked great with the scarf though.,neutral
+"@AmericanAir I'm not sure, can you help me out?",neutral
+@united It's understandable that mistakes happen. I'm sure you'll do better next time.,neutral
+"@united Your service can be hit or miss sometimes, but I appreciate your efforts to improve.",neutral
+"@USAirways Thanks for getting back to me, have a good day!",neutral
+@USAirways Thanks for the info. I appreciate it!,neutral
+@united Have a safe trip to New Mexico!,neutral
+"@Delta thanks for making me late to my important meeting, losing my luggage, and being completely unhelpful. Your incompetence knows no bounds",negative
+@AmericanAir thanks for making me feel like a second-class citizen because I couldn't afford a first-class ticket. Your elitism is truly appalling,negative
+"@united thanks for the broken seats, the terrible food, and the unapologetic staff. You're really nailing it",negative
+@JetBlue thanks for the cramped seats and the broken entertainment system. You're definitely not living up to the hype,negative
+"@Delta if your idea of customer service is to ignore your customers and treat them like dirt, you're doing a great job",negative
+"@united thanks for the lost luggage, the Cancelled Flightled flights, and the terrible service. You guys are truly the worst",negative
+@JetBlue thanks for the delayed flight and the poor communication with your customers. You guys really know how to make travel a hassle,negative
+"@Delta thanks for the rude staff, the overpriced tickets, and the broken seats. You're definitely not living up to your reputation",negative
+"@USAirways thanks for the delayed flight, the lost luggage, and the rude staff. You guys are truly the worst airline out there",negative
+@united thanks for the Cancelled Flightled flight and the complete lack of communication with your customers. You guys are the worst,negative
+"@AmericanAir thanks for the terrible food, the cramped seats, and the rude staff. You're definitely not living up to your reputation",negative
+@Delta I love how you manage to be the only airline that can consistently ruin my day with delayed flights and lost baggage #sarcasm,negative
+"@SouthwestAir if you want to make sure your customers never choose your airline again, just keep up the Cancelled Flightled flights and the terrible service",negative
+"@united if you want to make sure your customers never choose your airline again, just keep up the terrible service and the Cancelled Flightlations",negative
+"@USAirways If you want to make sure your customers never come back, just keep up the terrible service and rude staff #neveragain",negative
+"@JetBlue if you want to make sure your customers never choose your airline again, just keep up the delayed flights and the terrible service",negative
+"@USAirways I've never had such a terrible experience with an airline before. Your staff is rude, your planes are dirty, and your service is terrible",negative
+"@Delta thanks for making me miss my connecting flight, losing my luggage, and completely ruining my vacation. You guys are the worst",negative
+@AmericanAir If only your customer service was as good as your prices...,negative
+"@AmericanAir if your goal is to make your customers regret choosing your airline, you're doing a great job",negative
+"@USAirways how is it possible to have such terrible customer service? Your staff is unhelpful, your planes are dirty, and your policies are unfair",negative
+"@AmericanAir how is it possible to have such terrible customer service? Your staff is unhelpful, your policies are unfair, and your planes are outdated",negative
+"@JetBlue thanks for the cramped seats, the terrible food, and the broken entertainment system. You're definitely not living up to your reputation",negative
+"@united thanks for the 2-hour delay, the rude staff, and the overpriced snacks. You're really outdoing yourself",negative
